@@ -5,7 +5,7 @@ import {
   saveRegisteredUsers,
   type RegisteredUser,
   type UserSession,
-} from '../data/recipes';
+} from '../../data/recipes';
 import type { AppView } from './TopBar';
 
 interface LoginModuleProps {

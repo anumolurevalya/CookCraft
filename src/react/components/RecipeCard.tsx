@@ -1,5 +1,5 @@
 import { Box, Heart } from 'lucide-react';
-import type { Recipe } from '../data/recipes';
+import type { Recipe } from '../../data/recipes';
 import ResilientImage from './ResilientImage';
 
 interface RecipeCardProps {

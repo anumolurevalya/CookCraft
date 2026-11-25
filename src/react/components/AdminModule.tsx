@@ -18,7 +18,7 @@ import {
   type DishModelKey,
   type Recipe,
   type UserSession,
-} from '../data/recipes';
+} from '../../data/recipes';
 import ResilientImage from './ResilientImage';
 
 interface AdminModuleProps {

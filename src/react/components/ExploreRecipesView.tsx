@@ -5,7 +5,7 @@ import {
   RECIPE_CATEGORIES,
   type DietaryTag,
   type Recipe,
-} from '../data/recipes';
+} from '../../data/recipes';
 import RecipeCard from './RecipeCard';
 
 interface ExploreRecipesViewProps {

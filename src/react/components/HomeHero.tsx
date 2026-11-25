@@ -1,5 +1,5 @@
 import { Box } from 'lucide-react';
-import { HERO_IMAGE } from '../data/recipes';
+import { HERO_IMAGE } from '../../data/recipes';
 import type { AppView } from './TopBar';
 
 interface HomeHeroProps {

@@ -1,7 +1,7 @@
 import { Box, Camera, Heart, Maximize2 } from 'lucide-react';
 import { useState } from 'react';
-import type { Recipe } from '../data/recipes';
-import DishViewportCanvas from '../three/DishViewportCanvas';
+import type { Recipe } from '../../data/recipes';
+import DishViewportCanvas from '../../three/DishViewportCanvas';
 import ResilientImage from './ResilientImage';
 
 interface RecipeDetailViewProps {

@@ -9,12 +9,12 @@ import {
   RotateCw,
 } from 'lucide-react';
 import { useEffect, useState } from 'react';
-import type { Recipe } from '../data/recipes';
+import type { Recipe } from '../../data/recipes';
 import DishViewportCanvas, {
   type CameraPreset,
   type LightingPreset,
-} from '../three/DishViewportCanvas';
-import type { VesselFinishPreset } from '../three/materials';
+} from '../../three/DishViewportCanvas';
+import type { VesselFinishPreset } from '../../three/materials';
 
 interface Studio3DViewProps {
   recipes: Recipe[];

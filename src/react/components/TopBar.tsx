@@ -1,6 +1,6 @@
 import { Menu, X } from 'lucide-react';
 import { useState } from 'react';
-import type { UserSession } from '../data/recipes';
+import type { UserSession } from '../../data/recipes';
 
 export type AppView =
   | 'home'

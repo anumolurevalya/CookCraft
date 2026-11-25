@@ -1,6 +1,6 @@
 import { Flame, Leaf, Search, SlidersHorizontal } from 'lucide-react';
 import { useMemo, useState } from 'react';
-import { DIETARY_TAGS, type DietaryTag, type Recipe } from '../data/recipes';
+import { DIETARY_TAGS, type DietaryTag, type Recipe } from '../../data/recipes';
 import RecipeCard from './RecipeCard';
 
 interface DietaryModuleProps {

@@ -5,7 +5,7 @@ import {
   type DietaryTag,
   type Recipe,
   type UserSession,
-} from '../data/recipes';
+} from '../../data/recipes';
 
 interface ShareRecipeViewProps {
   user: UserSession | null;
