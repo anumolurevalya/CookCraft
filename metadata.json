@@ -1,0 +1,8 @@
+{
+  "name": "Remix RecipeHub",
+  "description": "Discover recipes, inspect interactive 3D plated dishes, save favorites, and share culinary creations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
